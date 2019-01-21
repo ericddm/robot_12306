@@ -1,6 +1,9 @@
 # robot_12306
 抢票小程序
 
+#python版本
+![avatar](resources/images/python3.7.png)
+
 # 环境配置
 chrome驱动-GoogleDriver
 
