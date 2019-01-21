@@ -25,6 +25,6 @@ get cookie->F12->network->cookie->始发站和目的地的cookie值获取->加�
 欢迎一起探讨学习新知识->
 本着自愿原则进行赞赏
 
-![avatar](resources/images/weChat.png)
+![avatar](resources/images/weChat.jpg)
 
 
